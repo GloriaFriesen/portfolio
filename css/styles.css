@@ -3,5 +3,9 @@
 }
 
 .well {
-  text-align: right
+  text-align: right;
+}
+
+.button {
+  float: right;
 }
