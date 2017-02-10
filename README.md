@@ -1,6 +1,6 @@
 # _Portfolio_
 
-#### _Personal portfolio site, 02.10.17_
+#### Personal portfolio site, 02.10.17
 
 #### By _**Gloria Friesen**_
 

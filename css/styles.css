@@ -1,3 +1,7 @@
+body{
+  font-family: 'open sans condensed', sans-serif;
+}
+
 #mainpage {
   background: url('../img/fern.jpg') no-repeat;
   background-size: fill;
@@ -6,6 +10,13 @@
   background-color: #DAF7A6;
   font-size: 20px;
   font-family: 'open sans condensed', sans-serif;
+}
+
+.handwriting {
+  font-size: 21px;
+  padding: 10px;
+  font-family: 'Nothing You Could Do', cursive;
+  margin-left: 20px;
 }
 
 .img-left {
@@ -20,6 +31,7 @@
 
 .well {
   text-align: right;
+  font-family: 'Roboto Condensed', sans-serif;
 }
 
 .button {
