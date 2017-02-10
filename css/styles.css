@@ -1,6 +1,10 @@
 #mainpage {
-  background-image: url()
+  background-image: url('../img/bay.jpg')
 }
+#mainnav {
+  background-color: #DAF7A6;
+}
+
 
 .well {
   text-align: right;
