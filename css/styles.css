@@ -33,6 +33,10 @@
   padding: 5px;
 }
 
+.thumbnail{
+  background-color: #DAF7A6;
+}
+
 .sidebar {
   background-color: #DAF7A6;
   float: right;
