@@ -6,7 +6,7 @@
 
 ## Description
 
-_{This website's main objective is to share my created works. Click through to learn about me and see some highlights from my portfolio.}_
+_This website's main objective is to share my created works. Click through to learn about me and see some highlights from my portfolio._
 
 ## Setup/Installation Requirements
 
@@ -14,11 +14,11 @@ _{This website's main objective is to share my created works. Click through to l
 
 ## Known Bugs
 
-_{Currently, there are no known bugs. Please keep me in the loop if you find any.}_
+_Currently, there are no known bugs. Please keep me in the loop if you find any._
 
 ## Support and contact details
 
-_{Questions? Concerns? Suggestions? Feel free to contact me: (gloriafriesen@gmail.com) }_
+_Questions? Concerns? Suggestions? Feel free to contact me: <gloriafriesen@gmail.com>_
 
 ## Technologies Used
 
@@ -28,6 +28,6 @@ _{Questions? Concerns? Suggestions? Feel free to contact me: (gloriafriesen@gmai
 
 ### License
 
-*{This software is licensed under the MIT license.}*
+*This software is licensed under the MIT license.*
 
-Copyright (c) 2017 **_{Gloria Friesen}_**
+Copyright (c) 2017 **_Gloria Friesen_**
