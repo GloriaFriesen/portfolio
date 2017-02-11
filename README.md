@@ -10,7 +10,7 @@ _This website's main objective is to share my created works. Click through to le
 
 ## Setup/Installation Requirements
 
-* _In your web browser of choice: go to: <http://gloriafriesen.github.io/portfolio>_
+_In your web browser of choice: go to: <http://gloriafriesen.github.io/portfolio>_
 
 ## Known Bugs
 

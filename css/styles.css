@@ -1,15 +1,25 @@
 body{
   font-family: 'open sans condensed', sans-serif;
+  background: url('../img/ferncopy.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
-#mainpage {
-  background: url('../img/fern.jpg') no-repeat;
-  background-size: fill;
-}
 #mainnav {
-  background-color: #DAF7A6;
+  background-color: #bcd5d1;
   font-size: 20px;
   font-family: 'open sans condensed', sans-serif;
+  border-color: #1d2120;
+}
+
+#pages {
+  background: url('../img/fern.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .handwriting {
@@ -17,6 +27,10 @@ body{
   padding: 10px;
   font-family: 'Nothing You Could Do', cursive;
   margin-left: 20px;
+}
+
+.list{
+  background-color: #daad86;
 }
 
 .img-left {
@@ -30,14 +44,14 @@ body{
 }
 
 .well {
+  background-color: #5a5c51;
+  border-color: #1d2120;
   text-align: right;
   font-family: 'Roboto Condensed', sans-serif;
 }
 
-.button {
-  float: left;
-  padding: 20px;
-  margin: 15px;
+.subhead {
+  background-color: #bcd5d1;
 }
 
 .bold {
@@ -45,8 +59,12 @@ body{
   padding: 5px;
 }
 
+.col-md-6{
+  background-color: #daad86;
+}
+
 .thumbnail{
-  background-color: #DAF7A6;
+  background-color: #bcd5d1;
 }
 
 .sidebar {
@@ -55,6 +73,11 @@ body{
   margin: 15px;
   padding: 15px;
   border-radius: 10px;
+}
+
+.btn-default {
+  background-color: #daad86;
+  border-color: #1d2120;
 }
 
 .links{
